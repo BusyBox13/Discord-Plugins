@@ -12,7 +12,7 @@
             "name": "WarMachine#9792",
             "github_username": "BusyBox13",
         }],
-        "version": "0.0.0.1",
+        "version": "0.0.0.2",
         "description": "Plays Memetastic sounds depending on what is being sent in chat.",
         "github": "https://github.com/BusyBox13/Discord-Plugins/tree/main/MemeSound/MyMemeSound.plugin.js",
         "github_raw": "https://raw.githubusercontent.com/BusyBox13/Discord-Plugins/main/MemeSound/MyMemeSound.plugin.js"
