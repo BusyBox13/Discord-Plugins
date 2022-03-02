@@ -1,0 +1,27 @@
+{
+    "currentVersionInfo": {
+        "version": "0.0.0.1",
+        "hasShownChangelog": true
+    }
+}
+
+{
+    "info": {
+        "name": "MyMemeSound",
+        "authors": [{
+            "name": "WarMachine#9792",
+            "github_username": "BusyBox13",
+        }],
+        "version": "0.0.0.1",
+        "description": "Plays Memetastic sounds depending on what is being sent in chat.",
+        "github": "https://github.com/BusyBox13/Discord-Plugins/tree/main/MemeSound/MyMemeSound.plugin.js",
+        "github_raw": "https://raw.githubusercontent.com/BusyBox13/Discord-Plugins/main/MemeSound/MyMemeSound.plugin.js"
+    },
+    "changelog": [
+        {"title": "New Stuff", "items": ["Added automatic updates", "Added changelog"]},
+        {"title": "Bugs Squashed", "type": "fixed", "items": ["No bugs *yet*"]},
+        {"title": "Improvements", "type": "improved", "items": ["Improvements to the response time"]},
+        {"title": "On-going", "type": "progress", "items": ["More sounds being added", "Other"]}
+    ],
+    "main": "MemeSounds.index.js"
+}
