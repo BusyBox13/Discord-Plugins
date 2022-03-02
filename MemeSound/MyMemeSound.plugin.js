@@ -4,7 +4,7 @@
  * @description Plays Memetastic sounds depending on what is being sent in chat.
  * @author WarMachine#9792
  * @authorLink https://github.com/BusyBox13/
- * @source https://github.com/BusyBox13/Discord-Plugins/tree/main/MemeSound/MyMemeSound.plugin.js 
+ * @source https://github.com/BusyBox13/Discord-Plugins/blob/main/MemeSound/MyMemeSound.plugin.js 
  * @updateUrl https://raw.githubusercontent.com/BusyBox13/Discord-Plugins/main/MemeSound/MyMemeSound.plugin.js 
  */
 
