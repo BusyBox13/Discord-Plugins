@@ -1,6 +1,6 @@
 /**
  * @name MyMemeSound
- * @version 0.0.0.1
+ * @version 0.0.0.2
  * @description Plays Memetastic sounds depending on what is being sent in chat.
  * @author WarMachine#9792
  * @authorLink https://github.com/BusyBox13/
