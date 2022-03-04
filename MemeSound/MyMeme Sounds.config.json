@@ -14,7 +14,6 @@
         {"title": "OULA", "type": "fixed", "items": ["No bugs *yet*"]},
         {"title": "Improvements", "type": "improved", "items": ["Improvements to the response time"]},
         {"title": "On-going", "type": "progress", "items": ["More sounds being added", "Other"]},
-        {"title": "ZEUBI", "type": "fixed", "items": ["Test", "ligne 2"]}
     ],
     "main": "MemeSounds.index.js"
 }
