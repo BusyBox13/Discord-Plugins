@@ -1,16 +1,9 @@
 {
-    "currentVersionInfo": {
-        "version": "0.0.0.3",
-        "hasShownChangelog": true
-    }
-}
-
-{
     "info": {
         "name": "MyMemeSound",
         "authors": [{
             "name": "WarMachine#9792",
-            "github_username": "BusyBox13",
+            "github_username": "BusyBox13"
         }],
         "description": "Plays Memetastic sounds depending on what is being sent in chat.",
         "github": "https://github.com/BusyBox13/Discord-Plugins/tree/main/MemeSound/MyMemeSound.plugin.js",
