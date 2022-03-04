@@ -13,7 +13,7 @@
         {"title": "Settings", "items": ["Added automatic updates", "Added changelog"]},
         {"title": "OULA", "type": "fixed", "items": ["No bugs *yet*"]},
         {"title": "Improvements", "type": "improved", "items": ["Improvements to the response time"]},
-        {"title": "On-going", "type": "progress", "items": ["More sounds being added", "Other"]},
+        {"title": "On-going", "type": "progress", "items": ["More sounds being added", "Other"]}
     ],
-    "main": "MemeSounds.index.js"
+    "main": "MyMemeSound.index.js"
 }
